@@ -1,12 +1,12 @@
 # dspTestDataGen
 Duomenų struktūrų pagrindų duomenų generatorius
 <br>
-<br>dsp.txt -> orginalus duomenys
+<br>arg.txt -> orginalus duomenys
 <br>output.txt -> output
 <br>
 <br>very scuffed. Pasitvarkykit kaip kam reik
 <br>
-<br>dsp.txt ->
+<br>arg.txt ->
 <br>arg1-a;arg1-b;
 <br>arg2-a;arg2-b;
 <br>arg3-a;arg3-b;
