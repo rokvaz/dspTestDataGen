@@ -1,10 +1,14 @@
 # dspTestDataGen
 Duomenų struktūrų pagrindų duomenų generatorius
 <br>
+<br>very scuffed. Pasitvarkykit kaip kam reik ir integruokit kur reik... Gal kam mano 5 min darbo pravers.
+<br>
+<br>
 <br>arg.txt -> orginalus duomenys
 <br>output.txt -> output
 <br>
-<br>very scuffed. Pasitvarkykit kaip kam reik
+<br>
+test:
 <br>
 <br>arg.txt ->
 <br>arg1-a;arg1-b;arg1-c
